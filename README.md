@@ -1,4 +1,4 @@
-# Cohort-2-PLP-Web
+# PLP-Web2
 
 ## Setting Up
 ```
